@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="C:\Users\lfarias\AppData\Local\Programs\Git\git-bash.exe" />
+    <option name="myTabName" value="Local" />
+  </component>
+</application>

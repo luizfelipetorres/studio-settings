@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="CloseAllEditors">
+        <abbreviation name="cat" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
