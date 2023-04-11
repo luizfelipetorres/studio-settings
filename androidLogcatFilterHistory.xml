@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MyFirebaseMsgService" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine MyFirebaseMsgService" />
         <option value="package:mine refre" />
         <option value="package:mine firebase" />
