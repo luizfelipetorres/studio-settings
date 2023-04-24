@@ -83,7 +83,7 @@
     <option name="INDENT_CHAINED_CALLS" value="false" />
   </TypeScriptCodeStyleSettings>
   <XML>
-    <option name="XML_KEEP_BLANK_LINES" value="1" />
+    <option name="XML_KEEP_BLANK_LINES" value="0" />
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="false" />
   </XML>
   <editorconfig>
