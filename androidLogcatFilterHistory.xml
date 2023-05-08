@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:AdProvider" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:AdProvider" />
         <option value="package:mine " />
+        <option value="package:mine tag:AdProvider" />
         <option value="package:mine AdProvider" />
         <option value="package:mine Use" />
         <option value="package:mine ad" />
