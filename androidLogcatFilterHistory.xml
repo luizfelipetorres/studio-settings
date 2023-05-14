@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine Uri" />
         <option value="package:mine Firebase" />
@@ -21,7 +23,6 @@
         <option value="level:debug D/" />
         <option value="level:debug " />
         <option value="level:DEBUG D/MainFragment" />
-        <option value="level:DEBUG " />
       </list>
     </option>
   </component>
