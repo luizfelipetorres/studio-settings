@@ -1,4 +1,9 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
