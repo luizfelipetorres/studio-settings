@@ -29,6 +29,9 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
