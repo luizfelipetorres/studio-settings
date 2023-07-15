@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:Ads " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Ads " />
+        <option value="package:mine test" />
         <option value="package:mine " />
         <option value="package:mine ad" />
         <option value="package:mine AppOpenAdManager" />
@@ -20,8 +23,6 @@
         <option value="package:mine tag:AdProvider" />
         <option value="package:mine Use" />
         <option value="package:mine MyFirebaseMsgService" />
-        <option value="package:mine refre" />
-        <option value="package:mine firebase" />
       </list>
     </option>
   </component>
