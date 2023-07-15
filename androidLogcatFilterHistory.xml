@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine ad" />
         <option value="package:mine AppOpenAdManager" />
         <option value="package:mine AppOpen" />
         <option value="package:mine ads" />
@@ -12,7 +13,6 @@
         <option value="package:mine StrikesFragment" />
         <option value="package:mine token" />
         <option value="package:mine AdProvider" />
-        <option value="package:mine ad" />
         <option value="package:mine Token" />
         <option value="package:mine Ad" />
         <option value="package:mine Uri" />
