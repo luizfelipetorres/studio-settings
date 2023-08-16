@@ -6,6 +6,7 @@
       <mapping pattern="db_quizz" type="Native" />
       <mapping pattern="clinica_vet" type="Native" />
       <mapping ext="db" type="Native" />
+      <mapping pattern="pubspec.lock" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
